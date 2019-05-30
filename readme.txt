@@ -4,5 +4,6 @@ git has a multiple index called stage.
 git tracks changes of files.
 my stupid boss still prefers SVN.
 
-Creating a new branch is quick AND simple.
+Creating a new branch is quick and simple.
+add merge
 
